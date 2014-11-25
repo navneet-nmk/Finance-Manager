@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FinanceManager</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="budget_string">Budget Type</string>
+    <string name="budget_body">A repeating budget resets every month or week. A one-off budget never repeats &amp; is for a set time.</string>
+    <string name="repeat_monthly">Repeating Monthly Budget</string>
+    <string name="one_off_budget">One-Off Budget</string>
+    <string name="repeating_weekly_budget">Repeating Weekly Budget</string>
+    <string name="title_activity_oneoff">OneoffActivity</string>
+    <string name="currency_text">Currency</string>
+    <string name="currency_body">"Use your local currency "</string>
+    <string name="dollar_text">Dollar</string>
+    <string name="euro_text">Euro</string>
+    <string name="pound_text">Pound</string>
+    <string name="rupee_text">Rupee</string>
+    <string name="title_activity_budget_amount">BudgetAmountActivity</string>
+    <string name="budget_text">Budget Amount</string>
+    <string name="budget_amount_body">Don\'t worry, you can always change this later.</string>
+    <string name="continue_button_text">Continue</string>
+    <string name="title_activity_main_finance">MainFinanceActivity</string>
+    <string name="amount_left_text">left in this budget</string>
+    <string name="add_button_text">Add</string>
+
+</resources>
